@@ -9,8 +9,8 @@ import PostPreview from "./PostPreview";
 
   return (
     <nav className="sticky top-0 z-50">
-      <div className="px-8 mx-auto border bg-gray-100">
-        <div className="flex justify-between p-2 text-black">
+      <div className="px-8 mx-auto bg-stone-950">
+        <div className="flex justify-between p-2 text-stone-100">
           <div className="flex">
             <div className="flex justify-center py-5 px-3 space-x-3 mr-4">Samuel Swedberg | Docs</div>
             <div className="flex items-center space-x-3">

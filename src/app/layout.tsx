@@ -21,10 +21,11 @@ export default function RootLayout({
       <body className={inter.className}>
       <Nav/>
       <Sidenav/>
-      <div className='grid grid-cols-3'>
-          <div></div>
-          <div className='mx-auto max-w-2xl px-6 cols-span-2'>{children}</div>
-        </div>
+          <div className='mx-auto max-w-4xl px-4'>
+            <div className='ml-44 w-100 '>
+              {children}
+            </div>
+          </div>
       </body>
     </html>
   )

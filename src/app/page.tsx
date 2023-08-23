@@ -10,9 +10,9 @@ const HomePage = () => {
   ));
 
   return (
-    <div>
-      <h1>Welcome to my Documentation Page</h1>
-      <p>The functionality is here. There is just no content yet. Last updated 8/10/23</p>
+    <div className='py-10 text-center'>
+      <h1 className="text-2xl text-slate-600 ">Welcome to my Documentation Page</h1>
+      <p className="text-slate-950 mt-2">Please note that some areas of this documentation page is still under development. I will try to update my progress on new projects as frequent as possible.</p>
     </div>
   );
 };

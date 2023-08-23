@@ -1,7 +1,32 @@
 ---
 title: "Interstate 94"
 subtitle: "Pixel art racing game made in Unity."
-date: "2022-12-26"
+date: "2023-08-23"
 ---
 
-Coming soon
+# Summary
+
+This is my first fully finished game. The inspiration of this game was Jetpack Joyride, except with cars.
+
+# Objectives
+
+The goal of the game is to beat all four stages. Currently there is no endless mode, however I may add more features in the future. You can collect coins to unlock different vehicles. Vehicles are purely cosmetic and do not give any other advantages. Along with the coins, you must avoid other vehicles, with the execption of a ramp truck.
+
+# Gameplay Pictures
+
+![Picture 1](../media/i94.jpg)
+
+![Picture 2](../media/i94.jpg)
+
+![Picture 3](../media/i94.jpg)
+
+![Picture 4](../media/i94.jpg)
+
+Pictures aren't working currently, I just have them as placeholders...
+
+# Download
+It is up for download on itch.io.
+
+# Reflection
+
+This game has been 90% done since 2021, however I started college and stopped working on it until 2022. I finished the game however haven't published it until now. Similar to before, it fell to the wayside since I was focusing on college and other projects that were peaking my interest.

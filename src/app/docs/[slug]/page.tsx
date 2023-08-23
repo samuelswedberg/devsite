@@ -27,7 +27,8 @@ const Docs = (props: any) => {
     <div>
       <div className="my-12 text-center">
         <h1 className="text-2xl text-slate-600 ">{post.data.title}</h1>
-        <p className="text-slate-400 mt-2">{post.data.date}</p>
+        <p className="text-slate-400 mt-2">Last Updated: {post.data.date}</p>
+        <h4 className="text-slate-600 pt-4 italic">{post.data.subtitle}</h4>
       </div>
 
       <article className="prose">
