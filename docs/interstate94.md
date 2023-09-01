@@ -27,10 +27,6 @@ other vehicles, except for a ramp truck
 
 ![Picture 4](../media/i94.jpg)
 
-Pictures aren't working currently, I just have them as placeholders...
-
-# Download
-It is up for download on itch.io.
 
 # Reflection
 
