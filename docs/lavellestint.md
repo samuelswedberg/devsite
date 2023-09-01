@@ -21,6 +21,8 @@ Lavelle's Tint, from which the business can contact the customer from there.
 
 Below is an image of the wireframe in Figma
 
+![Picture 1](../media/wireframe.jpg)
+
 # Check it out
 The staging environment for the website is can be seen here: [Click me](https://staging.samuelswedberg.com)
 
